@@ -2,5 +2,21 @@
         {
                 "name": "Type38 Infantry",
                 "uniqueTo": "Japan",
+                "replaces": "Great war Infantry",
+        },
+        {
+                "name": "Type89 Infantry",
+                "uniqueTo": "Japan",
+                "replaces": "Infantry",
+        },
+        {
+                "name": "Kar98k Infantry",
+                "uniqueTo": "Germany",
+                "replaces": "Great war Infantry",
+        },
+        {
+                "name": "MP45 Infantry",
+                "uniqueTo": "Germany",
+                "replaces": "Infantry",
         }
 ]
