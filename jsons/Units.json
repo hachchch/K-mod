@@ -1,6 +1,7 @@
 [
         {
                 "name": "九九式小銃歩兵",
+                "unitType": "Gunpowder",
                 "uniqueTo": "Japan",
                 "replaces": "Great War Infantry",
                 "cost": 320,
@@ -9,6 +10,7 @@
         },
         {
                 "name": "89式小銃歩兵",
+                "unitType": "Gunpowder",
                 "uniqueTo": "Japan",
                 "replaces": "Infantry",
                 "cost": 375,
@@ -17,6 +19,7 @@
         },
         {
                 "name": "三菱",
+                "unitType": "Fighter",
                 "uniqueTo": "Japan",
                 "replaceTo": "Triplane",
                 "cost": 325,
@@ -26,6 +29,7 @@
         },
         {
                 "name": "Kar98k歩兵",
+                "unitType": "Gunpowder",
                 "uniqueTo": "Germany",
                 "replaces": "Great War Infantry",
                 "cost": 320,
@@ -34,6 +38,7 @@
         },
         {
                 "name": "MP45歩兵",
+                "unitType": "Gunpowder",
                 "uniqueTo": "Germany",
                 "replaces": "Infantry",
                 "cost": 375,
@@ -42,6 +47,7 @@
         },
         {
                 "name": "種子島",
+                "unitType": "Gunpowder",
                 "uniqueTo": "Japan",
                 "replaces": "Musket man",
                 "movement": 1,
@@ -51,6 +57,7 @@
         },
         {
                 "name": "ゆみ",
+                "unitType": "Archery",
                 "uniqueTo": "Japan",
                 "replaces": "Crossbow",
                 "cost": 115,
@@ -62,6 +69,7 @@
         },
         {
                 "name": "武田騎馬隊",
+                "unitType": "Mounted",
                 "uniqueTo": "Japan",
                 "replaces": "Knight",
                 "strength": 24,
@@ -71,6 +79,7 @@
         },
         {
                 "name": "三八式小銃歩兵",
+                "unitType": "Gunpowder",
                 "uniqueTo": "Japan",
                 "replaces": "Rifleman",
                 "cost": 225,
@@ -80,6 +89,7 @@
         },
         {
                 "name": "チハ",
+                "unitType": "Armored",
                 "uniqueTo": "Japan",
                 "replaces": "Landship",
                 "cost": 325,
@@ -88,6 +98,7 @@
         },
         {
                 "name": "ティーガー",
+                "unitType": "Armored",
                 "uniqueTo": "Germany",
                 "replaces": "Modern Armor",
                 "cost": 750,
@@ -96,6 +107,7 @@
         },
         {
                 "name": "モシンナガン",
+                "unitType": "Gunpowder",
                 "uniqueTo": "Russia",
                 "replaces": "Rifleman",
                 "movement": 2,
@@ -104,11 +116,22 @@
         },
         {
                 "name": "赤衛軍",
+                "unitType": "Gunpowder",
                 "uniqueTo": "Russia",
                 "replaces": "Great War Infantry",
                 "cost": 280,
                 "strength": 50,
                 "movement": 2,
                 "promotions": [Morale],
+        },
+        {
+                "name": "大和",
+                "unitType": "Ranged Water",
+                "uniqueTo": "Japan",
+                "strength": 75,
+                "rangedStrength": 75,
+                "range": 3,
+                "movement": 4,
+                "cost": 450,
         }
 ]
