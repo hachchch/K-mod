@@ -1,43 +1,56 @@
 [
         {
-                "name": "Type38 Infantry",
+                "name": "九九式小銃歩兵",
                 "uniqueTo": "Japan",
                 "replaces": "Great war Infantry",
         },
         {
-                "name": "Type89 Infantry",
+                "name": "89式小銃歩兵",
                 "uniqueTo": "Japan",
                 "replaces": "Infantry",
         },
         {
-                "name": "Mitsubishi fighter",
+                "name": "三菱",
                 "uniqueTo": "Japan",
-                "replaceTo": "Three wings",
+                "replaceTo": "Triplane",
         },
         {
-                "name": "Kar98k Infantry",
+                "name": "Kar98k歩兵",
                 "uniqueTo": "Germany",
                 "replaces": "Great war Infantry",
         },
         {
-                "name": "MP45 Infantry",
+                "name": "MP45歩兵",
                 "uniqueTo": "Germany",
                 "replaces": "Infantry",
         },
         {
-                "name": "Tanegashima",
+                "name": "種子島",
                 "uniqueTo": "Japan",
                 "replaces": "Musket man",
         },
         {
-                "name": "Yumi",
+                "name": "ゆみ",
                 "uniqueTo": "Japan",
                 "replaces": "Crossbow",
         },
         {
-                "name": "Japanese Horse Archer",
+                "name": "武田騎馬隊",
+                "uniqueTo": "Japan",
+                "replaces": "Knight",
         },
         {
-                "name": "a",
-        }
+                "name": "三八式小銃歩兵",
+                "uniqueTo": "Japan",
+                "replaces": "Rifleman",
+        },
+        {
+                "name": "チハ",
+                "uniqueTo": "Japan",
+                "replaces": "Landship",
+        },
+        {
+                "name": "ティーガー",
+                "uniqueTo": "Germany",
+                "replaces": "Modern Armor"
 ]
