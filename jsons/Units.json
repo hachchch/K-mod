@@ -90,7 +90,7 @@
                 "name": "ティーガー",
                 "uniqueTo": "Germany",
                 "replaces": "Modern Armor",
-                "cost" 750,
+                "cost": 750,
                 "strength": 150,
                 "movement": 3,
         },
