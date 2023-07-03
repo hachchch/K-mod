@@ -1,7 +1,9 @@
 [
         {
-                "name": "y",
+                "name": "K complex",
                 "cost": 1,
-                "requiredTech": "Writing"
+                "production": 25,
+                "requiredTech": "Writing",
+                "uniques": [[+25]% [Production] [in this city]],
         }
 ]
