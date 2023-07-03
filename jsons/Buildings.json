@@ -4,6 +4,6 @@
                 "cost": 1,
                 "production": 25,
                 "requiredTech": "Writing",
-                "uniques": [[+25]% [Production] [in this city]],
+                "uniques": ["[+25]% [Production] [in this city]"],
         }
 ]
