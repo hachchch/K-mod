@@ -24,7 +24,7 @@
                 "replaces": "Triplane",
                 "cost": 325,
                 "strength": 35,
-                "rangeStrength": 35,
+                "rangedStrength": 35,
                 "range": 6,
         },
         {
@@ -62,7 +62,7 @@
                 "replaces": "Crossbowman",
                 "cost": 115,
                 "strength": 10,
-                "rangeStrength": 24,
+                "rangedStrength": 24,
                 "movement": 2,
                 "promotions": [Great Generals II],
                 "range": 2,
