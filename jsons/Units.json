@@ -42,7 +42,7 @@
                 "uniqueTo": "Germany",
                 "replaces": "Infantry",
                 "cost": 375,
-                "strangth": 70,
+                "strength": 70,
                 "movement": 2,
         },
         {
