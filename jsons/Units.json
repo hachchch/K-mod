@@ -10,6 +10,11 @@
                 "replaces": "Infantry",
         },
         {
+                "name": "Mitsubishi fighter",
+                "uniqueTo": "Japan",
+                "replaceTo": "Three wings",
+        },
+        {
                 "name": "Kar98k Infantry",
                 "uniqueTo": "Germany",
                 "replaces": "Great war Infantry",
