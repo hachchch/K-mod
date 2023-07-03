@@ -23,5 +23,18 @@
                 "name": "MP45 Infantry",
                 "uniqueTo": "Germany",
                 "replaces": "Infantry",
+        },
+        {
+                "name": "Tanegashima",
+                "uniqueTo": "Japan",
+                "replaces": "Musket man",
+        },
+        {
+                "name": "Yumi",
+                "uniqueTo": "Japan",
+                "replaces": "Crossbow",
+        },
+        {
+                "name": "Japanese Horse Archer",
         }
 ]
